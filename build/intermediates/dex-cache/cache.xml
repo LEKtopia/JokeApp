@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b3d644b72aef72f6082fe6c293f2bdb8c8c55995/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_23520c856299bf9b5fd6e44d1e046491a490cc6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_d11e7388bed8eec923ce4567d837b595ccccbf62/classes.dex" />
+    </item>
+    <item
+        jar="/Library/Developer/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_8bf79522401636c317cf36699eac550b2698dda7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_7d4f0b0f3ed429bcbedd73d9cd6ce882a1eb628d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_9d47e379281c0822ba22976c6d1f297380da92b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="09a8509d411fc77f13696157cb85df07944cfc5d">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_da4810aca7d2293df656c033960358aacdec32f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_17944bc613a4ad22e8539f51e8172899f1feac75/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1c9d1b9b4b3568568961ab69f4ca974d33d26515/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_0deb5ad6adfb768581fba0377afb17ef8996210d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c39025bf86b12d7c61b9dabf61116ba9df6eb7b4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_419ba9c5054fd851097721ea97552554a340ed3f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_27334ddaaf4448bc35ab72f2f4bf7f7afcd36706/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_ad4ba322c231066161cc5c06075c43ba859502a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_560910d1fdc2c14b1c9583699d930e74c5fbb329/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="7c6c3677bc45e103a90e2fc3607efd26a40b986c">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3e7777d50cded81e67572b73c9f7f306572b5667/classes.dex" />
+    </item>
+    <item
+        jar="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/gandrews7/Desktop/JokeView_gandrews7/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_8ef02447471318b7af41626ebbf28aa199624252/classes.dex" />
+    </item>
+
+</items>

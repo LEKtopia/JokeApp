@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Joke View</string>
+    <string name="add_joke">Add Joke</string>
+    <string name="enter_joke_hint">Enter joke here...</string>
+    <string name="joke_view_placeholder_text">This is a really long chunk of text that will be replaced, never to be seen again, whenever a JokeView is added to the list.</string>
+    <string name="remove">Remove</string>
+    <string name="filter_menuitem">Filter</string>
+    <string name="like_menuitem">Like</string>
+    <string name="dislike_menuitem">Dislike</string>
+    <string name="unrated_menuitem">Unrated</string>
+    <string name="show_all_menuitem">Show All</string>
+    <string-array name="joke_list">
+        <item>A small boy swallowed some coins and was taken to the hospital. When his grandmother called to ask how he was a nurse said, \'No change yet\'.</item>
+        <item>Cartoonist found dead in home. Details are sketchy.</item>
+        <item>I wondered why the baseball was getting bigger. Then it hit me.</item>
+        <item>What kind of teeth can you buy for a dollar? Buck-teeth.</item>
+        <item>This election.</item>
+        <item>Two fish were in a tank. One turns to the other, \'How do you drive this thing?\'</item>
+    </string-array>
+</resources>

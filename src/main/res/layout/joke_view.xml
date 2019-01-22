@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/jokeTextView"
+        android:layout_weight="100"
+        android:padding="10dp"
+        android:text="@string/joke_view_placeholder_text"/>
+
+    <RadioGroup
+        android:id="@+id/ratingRadioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:padding="5dp">
+
+        <RadioButton
+            android:id="@+id/likeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/like"
+            android:button="@null"
+            android:focusable="false"/>
+
+        <RadioButton
+            android:id="@+id/dislikeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/dislike"
+            android:button="@null"
+            android:focusable="false"/>
+
+    </RadioGroup>
+
+</LinearLayout>
